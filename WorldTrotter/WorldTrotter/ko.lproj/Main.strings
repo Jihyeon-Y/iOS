@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "is equal to"; ObjectID = "7hu-jv-EC4"; */
+"7hu-jv-EC4.text" = "변환하면";
+
+/* Class = "UILabel"; text = "lb(s)"; ObjectID = "Aag-eM-vuc"; */
+"Aag-eM-vuc.text" = "파운드는";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "DhM-hq-1nY"; */
+"DhM-hq-1nY.placeholder" = "value";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "E5S-xf-Trv"; */
+"E5S-xf-Trv.text" = "화씨온도는";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "ENv-A9-1e4"; */
+"ENv-A9-1e4.placeholder" = "value";
+
+/* Class = "UILabel"; text = "m"; ObjectID = "GhH-6T-Ohv"; */
+"GhH-6T-Ohv.text" = "미터는";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GmT-6m-LFM"; */
+"GmT-6m-LFM.text" = "Label";
+
+/* Class = "UILabel"; text = "kg"; ObjectID = "JGr-Lg-TNF"; */
+"JGr-Lg-TNF.text" = "킬로그램입니다.";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "KjI-bQ-zTp"; */
+"KjI-bQ-zTp.text" = "섭씨온도입니다.";
+
+/* Class = "UILabel"; text = "is equal to"; ObjectID = "Loq-uM-Pth"; */
+"Loq-uM-Pth.text" = "변환하면";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "Soq-Kg-bpR"; */
+"Soq-Kg-bpR.title" = "변환";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VWk-Cr-Wub"; */
+"VWk-Cr-Wub.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vft-OW-39d"; */
+"Vft-OW-39d.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "WfC-X9-20u"; */
+"WfC-X9-20u.placeholder" = "value";
+
+/* Class = "UILabel"; text = "mi"; ObjectID = "biV-n5-HTo"; */
+"biV-n5-HTo.text" = "마일입니다.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ifB-ag-Szs"; */
+"ifB-ag-Szs.text" = "Label";
+
+/* Class = "UILabel"; text = "ft"; ObjectID = "qOq-2K-Uj2"; */
+"qOq-2K-Uj2.text" = "피트이고";
+
+/* Class = "UILabel"; text = "is equal to"; ObjectID = "qTl-Kw-h7M"; */
+"qTl-Kw-h7M.text" = "변환하면";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "qUo-FL-Brb"; */
+"qUo-FL-Brb.title" = "지도";
